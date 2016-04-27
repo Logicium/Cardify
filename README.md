@@ -26,7 +26,7 @@ var options = {
                 //getAllAddress:"http://localhost:2080/getAll",
                 postDeleteAddress:"http://localhost:2080/postDelete",
                 postEditAddress:"http://localhost:2080/postEdit",
-                cardsLocation:"cards-container"
+                cardsLocation:"cards-container"//Appends the card to the element with this class
 };
 ```
 
